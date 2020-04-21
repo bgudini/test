@@ -8,7 +8,7 @@ var app = new Vue({
         (async () => {
             let json = await(await fetch('pandemics.json')).json();
             console.log(json);
-            this.question = json;
+            this.questions = json;
         })();
     }
   }
