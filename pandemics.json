@@ -1,0 +1,134 @@
+[{
+    "text": "In which case is a pandemic declared?",
+    "image": "/img/pandemics/1.jpg",
+    "responses": [
+    {"text": "when the number of contaminated people all over the world reaches a certain number"},
+    {"text": "when the number of deaths all over the world reaches a certain number"},
+    {   
+    "text": "there is no official category for a pandemic",
+    "correct": true,
+    "answer": "Right! In February 2020, a WHO spokesperson clarified that 'there is no official category for a pandemic'."
+    }
+    ]
+},
+{
+    "text": "COVID-19 is currently the only pandemic in the world.",
+    "image": "/img/pandemics/2.jpg",
+    "responses": [
+    {"text": "True"},
+    {   
+    "text": "False",
+    "correct": true,
+    "answer": "Right! Currently, AIDS is also a pandemic, with infection rates as high as 25% in southern and eastern Africa."
+    }
+    ]
+},
+{
+    "text": "Over the last 200 years, how many large cholera outbreaks have occurred?",
+    "image": "/img/pandemics/3.jpg",
+    "responses": [
+    {"text": "3"},
+    {"text": "5"},
+    {   
+    "text": "7",
+    "correct": true,
+    "answer": "Right! The first cholera pandemic began in India in 1817. Since then, there have been 7 cholera pandemics in general."
+    },
+    {"text": "11"}
+    ]
+},
+{
+    "text": "According to the guidelines of the World Health Organisations introduced several years ago, new disease names should not include geographic locations, the names of people, occupations, animals, or food.",
+    "image": "/img/pandemics/4.jpg",
+    "responses": [
+    {   
+    "text": "True",
+    "correct": true,
+    "answer": "Right! So Donald Trump’s usage of the name “Chinese virus” for COVID-19 wouldn’t be approved by the WHO."
+    },
+    {"text": "False"}
+    ]
+},
+{
+    "text": "The outbreak of what disease led to the downfall of the Aztec empire?",
+    "image": "/img/pandemics/5.jpg",
+    "responses": [
+    {"text": "typhus"},
+    {   
+    "text": "smallpox",
+    "correct": true,
+    "answer": "Right! It weakened the population so they were unable to resist Spanish colonizers."
+    },
+    {"text": "leprosy"},
+    {"text": "malaria"}
+    ]
+},
+{
+    "text": "The Black Death, which killed at least one third of Europe's population in the 14th century was the first plague pandemic.",
+    "image": "/img/pandemics/6.jpg",
+    "responses": [
+    {"text": "True"},
+    {   
+    "text": "False",
+    "correct": true,
+    "answer": "Right! The first was the Plague of Justinian, which ravaged the Byzantine Empire and surrounding areas in 541 and 542. The Black Death was the second."
+    }
+    ]
+},
+{
+    "text": "In 2016, the experts estimated that in the 21st century pandemic disease events would cost the global economy...",
+    "image": "/img/pandemics/7.jpg",
+    "responses": [
+    {"text": "over $10 billion per year"},
+    {"text": "over $30 billion per year"},
+    {   
+    "text": "over $60 billion per year",
+    "correct": true,
+    "answer": "Right! That’s the number given by the Commission on a Global Health Risk Framework for the Future."
+    },
+    {"text": "over $100 billion per year"}
+    ]
+},
+{
+    "text": "What is the only human infectious disease to have been completely eradicated?",
+    "image": "/img/pandemics/8.jpg",
+    "responses": [
+    {"text": "measles"},
+    {   
+    "text": "smallpox",
+    "correct": true,
+    "answer": "Right! So far, smallpox is the only human infectious disease to have been completely eradicated."
+    },
+    {"text": "plague"},
+    {"text": "leprosy"}
+    ]
+},
+{
+    "text": " What was MERS-coronavirus also known as?",
+    "image": "/img/pandemics/9.jpg",
+    "responses": [
+    {"text": "monkey flu"},
+    {   
+    "text": "camel flu",
+    "correct": true,
+    "answer": "Right! MERS stands for Middle East respiratory syndrome. Camels are believed to be involved in its spread to humans but it is not proved."
+    },
+    {"text": "rat flu"},
+    {"text": "swine flu"}
+    ]
+},
+{
+    "text": "When were coronaviruses first discovered?",
+    "image": "/img/pandemics/10.jpg",
+    "responses": [
+    {   
+    "text": "1930s",
+    "correct": true,
+    "answer": "Right! Later, in the 1960s human coronaviruses were discovered."
+    },
+    {"text": "1950s"},
+    {"text": "1990s"},
+    {"text": "2000s"}
+    ]
+}
+]
