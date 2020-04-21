@@ -6,7 +6,7 @@ var app = new Vue({
   methods: {
     getQuestion(){
         (async () => {
-            let json = await(await fetch('pandemic.json')).json();
+            let json = await(await fetch('pandemics.json')).json();
          
             console.log(json);
         })();
